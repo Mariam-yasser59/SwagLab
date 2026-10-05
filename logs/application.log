@@ -1,0 +1,1428 @@
+2026-10-04 12:56:45 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 12:56:45 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 12:56:45 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 12:56:45 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 12:56:45 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 12:56:45 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 12:56:45 DEBUG ProductPage:62 - Getting all products
+2026-10-04 12:56:46 DEBUG ProductPage:62 - Getting all products
+2026-10-04 12:56:46 DEBUG ProductPage:62 - Getting all products
+2026-10-04 12:56:46 DEBUG ProductPage:62 - Getting all products
+2026-10-04 12:58:40 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 12:58:40 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 12:58:40 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 12:58:41 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 12:58:41 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 12:58:41 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 12:58:41 DEBUG ProductPage:62 - Getting all products
+2026-10-04 12:58:41 DEBUG ProductPage:62 - Getting all products
+2026-10-04 12:58:41 DEBUG ProductPage:62 - Getting all products
+2026-10-04 12:58:42 DEBUG ProductPage:62 - Getting all products
+2026-10-04 13:00:00 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 13:00:00 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 13:00:00 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 13:00:00 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 13:00:00 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 13:00:00 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 13:00:00 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 13:00:00 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 13:00:00 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 13:00:00 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 13:00:00 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 13:00:00 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 13:00:00 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 13:00:00 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 13:00:00 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 13:00:01 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 13:00:01 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 13:00:01 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 13:00:01 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 13:00:01 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 13:00:01 INFO  ProductPage:104 - Selected products added successfully. Total products: 5
+2026-10-04 13:00:01 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 13:00:01 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 13:00:01 INFO  CartPage:32 - clickCheckout
+2026-10-04 13:00:01 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 13:00:01 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 13:00:01 DEBUG InformationPage:25 - getFirstname
+2026-10-04 13:00:02 DEBUG InformationPage:45 - enterLastname
+2026-10-04 13:00:02 DEBUG InformationPage:29 - getLastname
+2026-10-04 13:00:02 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 13:00:02 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 13:00:02 INFO  InformationPage:53 - clickContinue
+2026-10-04 13:00:02 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 14:55:47 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 14:55:47 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 14:55:47 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 14:55:47 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 14:55:47 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 14:55:54 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 14:55:55 DEBUG BaseTest:39 - Current url is: https://www.saucedemo.com/
+2026-10-04 14:55:55 DEBUG BaseTest:40 - Current driver is: ChromeDriver: chrome on windows (9dc9b0910b1b2674feed7bd0bd4f2f27)
+2026-10-04 14:55:55 INFO  InformationTest:31 - ===== Start Checkout Information Test =====
+2026-10-04 14:55:55 INFO  InformationTest:33 - Testing information: Mariam Yasser - 13612
+2026-10-04 14:55:55 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 14:55:55 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 14:55:55 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 14:55:55 INFO  InformationTest:49 - Logging in
+2026-10-04 14:55:55 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 14:55:55 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 14:55:55 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 14:55:55 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 14:55:55 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 14:55:55 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 14:55:55 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 14:55:56 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 14:55:56 INFO  InformationTest:61 - Adding selected products
+2026-10-04 14:55:56 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 14:55:56 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 14:55:56 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 14:55:56 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 14:55:56 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 14:55:56 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 14:55:56 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 14:55:56 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 14:55:56 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 14:55:56 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 14:55:56 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 14:55:56 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 14:55:56 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 14:55:56 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 14:55:56 INFO  ProductPage:104 - Selected products added successfully. Total products: 5
+2026-10-04 14:55:56 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 14:55:56 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 14:55:57 INFO  InformationTest:89 - Products expected: 5 | Products found: 5
+2026-10-04 14:55:57 INFO  CartPage:32 - clickCheckout
+2026-10-04 14:55:57 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 14:55:57 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 14:55:57 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 14:55:57 INFO  InformationTest:110 - Entering checkout information
+2026-10-04 14:55:57 INFO  BasePage:23 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 14:55:57 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 14:55:57 DEBUG InformationPage:25 - getFirstname
+2026-10-04 14:55:57 DEBUG InformationPage:45 - enterLastname
+2026-10-04 14:55:57 DEBUG InformationPage:29 - getLastname
+2026-10-04 14:55:57 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 14:55:57 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 14:55:57 INFO  InformationTest:119 - Clicking Continue
+2026-10-04 14:55:57 INFO  InformationPage:53 - clickContinue
+2026-10-04 14:55:57 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 14:55:57 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 14:55:57 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 14:55:57 INFO  InformationTest:129 - Checkout information test passed
+2026-10-04 14:55:57 INFO  InformationTest:130 - ===== End Checkout Information Test =====
+2026-10-04 15:21:20 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:21:20 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:21:20 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:20 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:21:20 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:24 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:21:25 DEBUG BaseTest:46 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:21:25 DEBUG BaseTest:47 - Current driver is: ChromeDriver: chrome on windows (6e90aa035ebd887bacf3ff0a5375775b)
+2026-10-04 15:21:25 INFO  ValidLoginTest:26 - ===== Start Valid Login Test =====
+2026-10-04 15:21:25 INFO  ValidLoginTest:27 - Testing username: standard_user
+2026-10-04 15:21:25 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:25 INFO  ValidLoginTest:31 - Entering username
+2026-10-04 15:21:25 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:21:25 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:21:25 INFO  ValidLoginTest:34 - Entering password
+2026-10-04 15:21:25 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:21:25 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:21:25 INFO  ValidLoginTest:37 - Clicking Login button
+2026-10-04 15:21:25 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:21:25 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:21:25 INFO  BasePage:23 - https://www.saucedemo.com/inventory.html
+2026-10-04 15:21:25 INFO  ProductPage:32 - Getting Products page title
+2026-10-04 15:21:25 INFO  ValidLoginTest:46 - Actual page title: Products
+2026-10-04 15:21:25 INFO  ValidLoginTest:57 - Valid login passed for user: standard_user
+2026-10-04 15:21:25 INFO  ValidLoginTest:62 - ===== End Valid Login Test =====
+2026-10-04 15:21:26 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:21:26 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:21:26 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:26 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:21:26 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:28 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:21:28 DEBUG BaseTest:46 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:21:28 DEBUG BaseTest:47 - Current driver is: ChromeDriver: chrome on windows (8b5689a3875430c3c305122bc31bf644)
+2026-10-04 15:21:28 INFO  ProductTest:30 - ===== Start Add To Cart Test =====
+2026-10-04 15:21:28 INFO  ProductTest:31 - Testing with username: standard_user
+2026-10-04 15:21:28 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:28 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:28 INFO  ProductTest:36 - Entering username
+2026-10-04 15:21:28 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:21:29 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:21:29 INFO  ProductTest:39 - Entering password
+2026-10-04 15:21:29 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:21:29 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:21:29 INFO  ProductTest:42 - Clicking Login button
+2026-10-04 15:21:29 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:21:29 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:21:29 INFO  ProductTest:45 - Adding selected products to cart
+2026-10-04 15:21:29 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:21:29 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:21:29 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:29 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:21:29 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:21:29 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:29 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:21:29 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:21:29 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:29 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:21:29 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:21:29 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:21:29 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:30 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:21:30 INFO  ProductPage:104 - Selected products added successfully. Total products: 5
+2026-10-04 15:21:30 INFO  ProductTest:49 - Number of products added: 5
+2026-10-04 15:21:30 INFO  ProductTest:57 - Opening shopping cart
+2026-10-04 15:21:30 DEBUG ProductPage:37 - Getting shopping cart badge
+2026-10-04 15:21:30 INFO  ProductTest:63 - Current URL: https://www.saucedemo.com/cart.html
+2026-10-04 15:21:30 INFO  ProductTest:72 - Add To Cart Test passed
+2026-10-04 15:21:30 INFO  ProductTest:73 - ===== End Add To Cart Test =====
+2026-10-04 15:21:30 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:21:30 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:21:30 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:30 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:21:30 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:32 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:21:32 DEBUG BaseTest:46 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:21:32 DEBUG BaseTest:47 - Current driver is: ChromeDriver: chrome on windows (410102635f6cb09f5910c3aede6f994f)
+2026-10-04 15:21:32 INFO  CheckoutTest:113 - ===== Start Check Total Price Test =====
+2026-10-04 15:21:32 INFO  CheckoutTest:114 - Testing username: standard_user
+2026-10-04 15:21:32 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:21:32 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:32 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:32 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:32 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:33 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:33 INFO  CheckoutTest:135 - Logging in
+2026-10-04 15:21:33 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:21:33 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:21:33 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:21:33 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:21:33 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:21:33 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:21:33 INFO  CheckoutTest:141 - Calculating actual total price
+2026-10-04 15:21:33 INFO  ProductPage:112 - Calculating total price of selected products
+2026-10-04 15:21:33 DEBUG ProductPage:125 - Searching for product: backpack
+2026-10-04 15:21:33 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:33 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-backpack | Price: $29.99
+2026-10-04 15:21:33 DEBUG ProductPage:125 - Searching for product: bike
+2026-10-04 15:21:33 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:33 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-bike-light | Price: $9.99
+2026-10-04 15:21:33 DEBUG ProductPage:125 - Searching for product: t-shirt
+2026-10-04 15:21:33 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:33 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-bolt-t-shirt | Price: $15.99
+2026-10-04 15:21:34 INFO  ProductPage:139 - Product: add-to-cart-test.allthethings()-t-shirt-(red) | Price: $15.99
+2026-10-04 15:21:34 DEBUG ProductPage:125 - Searching for product: jacket
+2026-10-04 15:21:34 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:34 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-fleece-jacket | Price: $49.99
+2026-10-04 15:21:34 INFO  ProductPage:150 - Total calculated price: 121.94999999999999
+2026-10-04 15:21:34 INFO  CheckoutTest:146 - Actual total price: 121.94999999999999
+2026-10-04 15:21:34 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:21:34 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:21:34 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:21:34 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:21:34 INFO  CheckoutTest:155 - Entering checkout information
+2026-10-04 15:21:34 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:21:34 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:21:34 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:21:34 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:21:34 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:21:34 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:21:34 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:21:34 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:21:34 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:21:34 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:21:34 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:21:34 DEBUG OverviewPage:35 - getSubTotal
+2026-10-04 15:21:34 INFO  CheckoutTest:176 - Expected subtotal: 121.94999999999999
+2026-10-04 15:21:34 DEBUG OverviewPage:39 - getTax
+2026-10-04 15:21:35 DEBUG OverviewPage:43 - getTotal
+2026-10-04 15:21:35 DEBUG OverviewPage:39 - getTax
+2026-10-04 15:21:35 DEBUG OverviewPage:43 - getTotal
+2026-10-04 15:21:35 INFO  CheckoutTest:199 - Total price validation passed
+2026-10-04 15:21:35 INFO  CheckoutTest:203 - ===== End Check Total Price Test =====
+2026-10-04 15:21:35 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:21:35 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:21:35 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:35 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:21:35 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:37 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:21:38 DEBUG BaseTest:46 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:21:38 DEBUG BaseTest:47 - Current driver is: ChromeDriver: chrome on windows (c2513511f4eca79c1a8c9355ea1815a5)
+2026-10-04 15:21:38 INFO  InformationTest:31 - ===== Start Checkout Information Test =====
+2026-10-04 15:21:38 INFO  InformationTest:33 - Testing information: Mariam Yasser - 13612
+2026-10-04 15:21:38 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:38 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:38 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:38 INFO  InformationTest:49 - Logging in
+2026-10-04 15:21:38 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:21:38 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:21:39 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:21:39 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:21:39 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:21:39 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:21:39 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:21:39 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:21:39 INFO  InformationTest:61 - Adding selected products
+2026-10-04 15:21:39 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:21:39 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:21:39 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:39 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:21:39 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:21:39 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:39 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:21:39 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:21:39 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:39 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:21:39 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:21:39 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:21:39 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:40 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:21:40 INFO  ProductPage:104 - Selected products added successfully. Total products: 10
+2026-10-04 15:21:40 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:21:40 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:21:40 INFO  InformationTest:89 - Products expected: 10 | Products found: 10
+2026-10-04 15:21:40 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:21:40 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:21:40 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:21:40 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:21:40 INFO  InformationTest:110 - Entering checkout information
+2026-10-04 15:21:40 INFO  BasePage:23 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:21:40 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:21:40 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:21:41 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:21:41 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:21:41 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:21:41 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:21:41 INFO  InformationTest:119 - Clicking Continue
+2026-10-04 15:21:41 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:21:41 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:21:41 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:21:41 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:21:41 INFO  InformationTest:129 - Checkout information test passed
+2026-10-04 15:21:41 INFO  InformationTest:130 - ===== End Checkout Information Test =====
+2026-10-04 15:21:42 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:21:42 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:21:42 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:42 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:21:42 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:44 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:21:46 DEBUG BaseTest:46 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:21:46 DEBUG BaseTest:47 - Current driver is: ChromeDriver: chrome on windows (e338e08f9b3c1ba7e1e6f8259df2c860)
+2026-10-04 15:21:46 INFO  OverviewTest:24 - Start Overview Test
+2026-10-04 15:21:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:46 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:21:46 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:21:46 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:21:46 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:21:46 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:21:46 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:21:46 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:21:46 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:21:46 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:21:46 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:21:46 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:46 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:21:46 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:21:46 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:46 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:21:47 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:21:47 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:47 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:21:47 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:21:47 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:21:47 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:47 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:21:47 INFO  ProductPage:104 - Selected products added successfully. Total products: 15
+2026-10-04 15:21:47 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:21:47 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:21:48 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:21:48 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:21:48 INFO  OverviewTest:52 - End Overview Test
+2026-10-04 15:21:48 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:21:48 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:21:48 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:21:48 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:21:48 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:21:48 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:21:48 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:21:48 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:21:48 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:21:48 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:21:48 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:21:48 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:21:48 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:21:48 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:21:48 INFO  OverviewPage:48 - clickFinish
+2026-10-04 15:21:48 DEBUG OverviewPage:30 - getFinishButton
+2026-10-04 15:21:48 DEBUG ConfigHandler:28 - Getting value for key: completeUrl
+2026-10-04 15:21:48 INFO  BasePage:51 - https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:21:49 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:21:49 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:21:49 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:49 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:21:49 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:21:51 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:21:52 DEBUG BaseTest:46 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:21:52 DEBUG BaseTest:47 - Current driver is: ChromeDriver: chrome on windows (40a4269669162c506d884a7ca44ec220)
+2026-10-04 15:21:52 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:52 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:52 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:52 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:52 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:21:52 DEBUG GenerateReportTest:29 - Checking out the information
+2026-10-04 15:21:52 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:21:52 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:21:52 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:21:52 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:21:52 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:21:52 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:21:52 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:21:52 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:21:52 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:21:52 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:21:52 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:52 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:21:52 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:21:52 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:52 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:21:53 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:21:53 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:53 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:21:53 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:21:53 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:21:53 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:21:53 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:21:53 INFO  ProductPage:104 - Selected products added successfully. Total products: 20
+2026-10-04 15:21:53 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:21:53 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:21:54 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:21:54 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:21:54 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:21:54 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:21:54 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:21:54 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:21:54 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:21:55 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:21:55 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:21:55 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:21:55 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:21:55 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:21:55 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:21:55 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:21:55 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:21:55 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:21:55 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:21:55 INFO  OverviewPage:48 - clickFinish
+2026-10-04 15:21:55 DEBUG OverviewPage:30 - getFinishButton
+2026-10-04 15:21:56 DEBUG ConfigHandler:28 - Getting value for key: completeUrl
+2026-10-04 15:21:56 INFO  BasePage:51 - https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:21:56 INFO  BasePage:23 - https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:21:56 INFO  GenerateReport:28 - clickGenerateButton
+2026-10-04 15:21:56 DEBUG GenerateReport:23 - getGenerateButton
+2026-10-04 15:26:01 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:26:01 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:26:01 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:26:01 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:26:01 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:26:04 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:26:07 DEBUG BaseTest:47 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:26:07 DEBUG BaseTest:48 - Current driver is: ChromeDriver: chrome on windows (5f8b895aeaa2cc520299fecc56720293)
+2026-10-04 15:26:07 INFO  InformationTest:31 - ===== Start Checkout Information Test =====
+2026-10-04 15:26:07 INFO  InformationTest:33 - Testing information: Mariam Yasser - 13612
+2026-10-04 15:26:07 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:26:07 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:26:07 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:26:07 INFO  InformationTest:49 - Logging in
+2026-10-04 15:26:07 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:26:07 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:26:07 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:26:07 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:26:07 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:26:07 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:26:07 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:26:07 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:26:07 INFO  InformationTest:61 - Adding selected products
+2026-10-04 15:26:07 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:26:07 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:26:07 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:26:08 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:26:08 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:26:08 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:26:08 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:26:08 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:26:08 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:26:08 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:26:08 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:26:08 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:26:08 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:26:08 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:26:08 INFO  ProductPage:104 - Selected products added successfully. Total products: 5
+2026-10-04 15:26:08 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:26:08 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:26:09 INFO  InformationTest:89 - Products expected: 5 | Products found: 5
+2026-10-04 15:26:09 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:26:09 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:26:09 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:26:09 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:26:09 INFO  InformationTest:110 - Entering checkout information
+2026-10-04 15:26:09 INFO  BasePage:23 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:26:09 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:26:09 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:26:09 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:26:09 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:26:09 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:26:09 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:26:09 INFO  InformationTest:119 - Clicking Continue
+2026-10-04 15:26:09 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:26:09 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:26:09 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:26:09 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:26:09 INFO  InformationTest:129 - Checkout information test passed
+2026-10-04 15:26:09 INFO  InformationTest:130 - ===== End Checkout Information Test =====
+2026-10-04 15:39:04 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:39:04 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:39:04 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:04 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:39:04 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:08 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:39:08 DEBUG BaseTest:48 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:39:08 DEBUG BaseTest:49 - Current driver is: ChromeDriver: chrome on windows (5ea85aa29b57f3cfa3c07e3cd9838938)
+2026-10-04 15:39:08 INFO  ValidLoginTest:26 - ===== Start Valid Login Test =====
+2026-10-04 15:39:08 INFO  ValidLoginTest:27 - Testing username: standard_user
+2026-10-04 15:39:08 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:08 INFO  ValidLoginTest:31 - Entering username
+2026-10-04 15:39:08 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:39:09 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:39:09 INFO  ValidLoginTest:34 - Entering password
+2026-10-04 15:39:09 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:39:09 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:39:09 INFO  ValidLoginTest:37 - Clicking Login button
+2026-10-04 15:39:09 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:39:09 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:39:09 INFO  BasePage:23 - https://www.saucedemo.com/inventory.html
+2026-10-04 15:39:09 INFO  ProductPage:32 - Getting Products page title
+2026-10-04 15:39:09 INFO  ValidLoginTest:46 - Actual page title: Products
+2026-10-04 15:39:09 INFO  ValidLoginTest:57 - Valid login passed for user: standard_user
+2026-10-04 15:39:09 INFO  ValidLoginTest:62 - ===== End Valid Login Test =====
+2026-10-04 15:39:09 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:39:09 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:39:09 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:09 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:39:09 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:11 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:39:12 DEBUG BaseTest:48 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:39:12 DEBUG BaseTest:49 - Current driver is: ChromeDriver: chrome on windows (e4baccb7fd47eae17f05bd2619021f18)
+2026-10-04 15:39:12 INFO  ProductTest:30 - ===== Start Add To Cart Test =====
+2026-10-04 15:39:12 INFO  ProductTest:31 - Testing with username: standard_user
+2026-10-04 15:39:12 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:12 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:12 INFO  ProductTest:36 - Entering username
+2026-10-04 15:39:12 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:39:12 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:39:12 INFO  ProductTest:39 - Entering password
+2026-10-04 15:39:12 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:39:12 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:39:12 INFO  ProductTest:42 - Clicking Login button
+2026-10-04 15:39:12 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:39:12 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:39:12 INFO  ProductTest:45 - Adding selected products to cart
+2026-10-04 15:39:12 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:39:12 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:39:12 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:12 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:39:12 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:39:12 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:13 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:39:13 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:39:13 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:13 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:39:13 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:39:13 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:39:13 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:13 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:39:13 INFO  ProductPage:104 - Selected products added successfully. Total products: 5
+2026-10-04 15:39:13 INFO  ProductTest:49 - Number of products added: 5
+2026-10-04 15:39:13 INFO  ProductTest:57 - Opening shopping cart
+2026-10-04 15:39:13 DEBUG ProductPage:37 - Getting shopping cart badge
+2026-10-04 15:39:13 INFO  ProductTest:63 - Current URL: https://www.saucedemo.com/cart.html
+2026-10-04 15:39:13 INFO  ProductTest:72 - Add To Cart Test passed
+2026-10-04 15:39:13 INFO  ProductTest:73 - ===== End Add To Cart Test =====
+2026-10-04 15:39:14 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:39:14 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:39:14 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:14 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:39:14 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:15 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:39:16 DEBUG BaseTest:48 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:39:16 DEBUG BaseTest:49 - Current driver is: ChromeDriver: chrome on windows (d945c18b42726a533576ea30e2d076b8)
+2026-10-04 15:39:16 INFO  CheckoutTest:113 - ===== Start Check Total Price Test =====
+2026-10-04 15:39:16 INFO  CheckoutTest:114 - Testing username: standard_user
+2026-10-04 15:39:16 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:39:16 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:16 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:16 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:16 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:16 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:16 INFO  CheckoutTest:135 - Logging in
+2026-10-04 15:39:16 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:39:16 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:39:16 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:39:16 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:39:16 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:39:17 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:39:17 INFO  CheckoutTest:141 - Calculating actual total price
+2026-10-04 15:39:17 INFO  ProductPage:112 - Calculating total price of selected products
+2026-10-04 15:39:17 DEBUG ProductPage:125 - Searching for product: backpack
+2026-10-04 15:39:17 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:17 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-backpack | Price: $29.99
+2026-10-04 15:39:17 DEBUG ProductPage:125 - Searching for product: bike
+2026-10-04 15:39:17 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:17 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-bike-light | Price: $9.99
+2026-10-04 15:39:17 DEBUG ProductPage:125 - Searching for product: t-shirt
+2026-10-04 15:39:17 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:17 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-bolt-t-shirt | Price: $15.99
+2026-10-04 15:39:17 INFO  ProductPage:139 - Product: add-to-cart-test.allthethings()-t-shirt-(red) | Price: $15.99
+2026-10-04 15:39:17 DEBUG ProductPage:125 - Searching for product: jacket
+2026-10-04 15:39:17 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:17 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-fleece-jacket | Price: $49.99
+2026-10-04 15:39:17 INFO  ProductPage:150 - Total calculated price: 121.94999999999999
+2026-10-04 15:39:17 INFO  CheckoutTest:146 - Actual total price: 121.94999999999999
+2026-10-04 15:39:17 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:39:17 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:39:18 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:39:18 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:39:18 INFO  CheckoutTest:155 - Entering checkout information
+2026-10-04 15:39:18 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:39:18 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:39:18 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:39:18 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:39:18 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:39:18 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:39:18 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:39:18 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:39:18 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:39:18 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:39:18 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:39:18 DEBUG OverviewPage:35 - getSubTotal
+2026-10-04 15:39:18 INFO  CheckoutTest:176 - Expected subtotal: 121.94999999999999
+2026-10-04 15:39:18 DEBUG OverviewPage:39 - getTax
+2026-10-04 15:39:18 DEBUG OverviewPage:43 - getTotal
+2026-10-04 15:39:18 DEBUG OverviewPage:39 - getTax
+2026-10-04 15:39:18 DEBUG OverviewPage:43 - getTotal
+2026-10-04 15:39:18 INFO  CheckoutTest:199 - Total price validation passed
+2026-10-04 15:39:18 INFO  CheckoutTest:203 - ===== End Check Total Price Test =====
+2026-10-04 15:39:19 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:39:19 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:39:19 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:19 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:39:19 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:21 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:39:21 DEBUG BaseTest:48 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:39:21 DEBUG BaseTest:49 - Current driver is: ChromeDriver: chrome on windows (78f34f347365acaeda456633a74bf599)
+2026-10-04 15:39:21 INFO  InformationTest:31 - ===== Start Checkout Information Test =====
+2026-10-04 15:39:21 INFO  InformationTest:33 - Testing information: Mariam Yasser - 13612
+2026-10-04 15:39:21 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:21 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:21 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:21 INFO  InformationTest:49 - Logging in
+2026-10-04 15:39:21 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:39:21 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:39:21 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:39:21 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:39:21 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:39:21 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:39:21 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:39:22 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:39:22 INFO  InformationTest:61 - Adding selected products
+2026-10-04 15:39:22 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:39:22 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:39:22 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:22 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:39:22 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:39:22 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:22 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:39:22 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:39:22 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:22 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:39:22 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:39:22 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:39:22 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:22 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:39:23 INFO  ProductPage:104 - Selected products added successfully. Total products: 10
+2026-10-04 15:39:23 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:39:23 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:39:23 INFO  InformationTest:89 - Products expected: 10 | Products found: 10
+2026-10-04 15:39:23 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:39:23 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:39:23 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:39:23 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:39:23 INFO  InformationTest:110 - Entering checkout information
+2026-10-04 15:39:23 INFO  BasePage:23 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:39:23 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:39:23 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:39:23 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:39:23 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:39:23 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:39:23 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:39:24 INFO  InformationTest:119 - Clicking Continue
+2026-10-04 15:39:24 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:39:24 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:39:24 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:39:24 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:39:24 INFO  InformationTest:129 - Checkout information test passed
+2026-10-04 15:39:24 INFO  InformationTest:130 - ===== End Checkout Information Test =====
+2026-10-04 15:39:24 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:39:24 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:39:24 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:24 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:39:24 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:26 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:39:27 DEBUG BaseTest:48 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:39:27 DEBUG BaseTest:49 - Current driver is: ChromeDriver: chrome on windows (ef68f09c99ddfc70bc1fae442390fa7c)
+2026-10-04 15:39:27 INFO  OverviewTest:24 - Start Overview Test
+2026-10-04 15:39:27 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:27 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:27 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:27 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:27 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:27 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:39:27 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:39:27 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:39:27 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:39:27 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:39:27 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:39:27 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:39:27 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:39:27 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:39:27 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:39:27 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:27 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:39:27 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:39:27 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:27 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:39:27 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:39:27 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:27 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:39:28 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:39:28 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:39:28 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:28 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:39:28 INFO  ProductPage:104 - Selected products added successfully. Total products: 15
+2026-10-04 15:39:28 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:39:28 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:39:29 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:39:29 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:39:29 INFO  OverviewTest:52 - End Overview Test
+2026-10-04 15:39:29 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:39:29 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:39:29 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:39:29 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:39:30 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:39:30 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:39:30 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:39:30 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:39:30 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:39:30 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:39:30 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:39:30 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:39:30 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:39:30 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:39:30 INFO  OverviewPage:48 - clickFinish
+2026-10-04 15:39:30 DEBUG OverviewPage:30 - getFinishButton
+2026-10-04 15:39:30 DEBUG ConfigHandler:28 - Getting value for key: completeUrl
+2026-10-04 15:39:30 INFO  BasePage:51 - https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:39:31 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:39:31 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:39:31 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:31 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:39:31 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:39:33 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:39:33 DEBUG BaseTest:48 - Current url is: https://www.saucedemo.com/
+2026-10-04 15:39:33 DEBUG BaseTest:49 - Current driver is: ChromeDriver: chrome on windows (bcc3ad6a5ff7e94bfdb483fe64209eba)
+2026-10-04 15:39:33 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:33 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:33 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:33 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:33 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:39:33 DEBUG GenerateReportTest:29 - Checking out the information
+2026-10-04 15:39:33 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:39:33 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:39:33 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:39:33 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:39:33 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:39:33 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:39:33 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:39:34 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:39:34 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:39:34 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:39:34 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:34 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:39:34 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:39:34 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:34 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:39:34 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:39:34 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:34 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:39:34 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:39:34 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:39:34 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:39:34 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:39:34 INFO  ProductPage:104 - Selected products added successfully. Total products: 20
+2026-10-04 15:39:34 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:39:34 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:39:35 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:39:35 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:39:36 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:39:36 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:42:39 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:42:39 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:42:39 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:39 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:42:39 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:42 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:42:44 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:42:44 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (934561effed5c3673a89f3c8fc1712c1)
+2026-10-04 15:42:44 INFO  ValidLoginTest:26 - ===== Start Valid Login Test =====
+2026-10-04 15:42:44 INFO  ValidLoginTest:27 - Testing username: standard_user
+2026-10-04 15:42:44 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:42:44 INFO  ValidLoginTest:31 - Entering username
+2026-10-04 15:42:44 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:42:44 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:42:44 INFO  ValidLoginTest:34 - Entering password
+2026-10-04 15:42:44 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:42:44 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:42:44 INFO  ValidLoginTest:37 - Clicking Login button
+2026-10-04 15:42:44 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:42:45 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:42:45 INFO  BasePage:23 - https://www.saucedemo.com/inventory.html
+2026-10-04 15:42:45 INFO  ProductPage:32 - Getting Products page title
+2026-10-04 15:42:45 INFO  ValidLoginTest:46 - Actual page title: Products
+2026-10-04 15:42:45 INFO  ValidLoginTest:57 - Valid login passed for user: standard_user
+2026-10-04 15:42:45 INFO  ValidLoginTest:62 - ===== End Valid Login Test =====
+2026-10-04 15:42:45 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/inventory.html
+2026-10-04 15:42:45 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:42:45 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:42:45 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:42:45 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:45 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:42:45 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:47 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:42:48 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:42:48 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (97affeb32677c811c58c19a874631eef)
+2026-10-04 15:42:48 INFO  ProductTest:30 - ===== Start Add To Cart Test =====
+2026-10-04 15:42:48 INFO  ProductTest:31 - Testing with username: standard_user
+2026-10-04 15:42:48 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:42:48 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:42:48 INFO  ProductTest:36 - Entering username
+2026-10-04 15:42:48 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:42:48 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:42:48 INFO  ProductTest:39 - Entering password
+2026-10-04 15:42:48 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:42:48 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:42:48 INFO  ProductTest:42 - Clicking Login button
+2026-10-04 15:42:48 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:42:48 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:42:48 INFO  ProductTest:45 - Adding selected products to cart
+2026-10-04 15:42:48 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:42:48 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:42:48 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:42:48 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:42:48 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:42:48 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:42:49 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:42:49 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:42:49 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:42:49 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:42:49 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:42:49 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:42:49 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:42:49 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:42:49 INFO  ProductPage:104 - Selected products added successfully. Total products: 5
+2026-10-04 15:42:49 INFO  ProductTest:49 - Number of products added: 5
+2026-10-04 15:42:49 INFO  ProductTest:57 - Opening shopping cart
+2026-10-04 15:42:49 DEBUG ProductPage:37 - Getting shopping cart badge
+2026-10-04 15:42:49 INFO  ProductTest:63 - Current URL: https://www.saucedemo.com/cart.html
+2026-10-04 15:42:49 INFO  ProductTest:72 - Add To Cart Test passed
+2026-10-04 15:42:49 INFO  ProductTest:73 - ===== End Add To Cart Test =====
+2026-10-04 15:42:49 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/cart.html
+2026-10-04 15:42:49 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:42:49 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:42:49 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:42:49 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:49 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:42:49 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:51 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:42:52 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:42:52 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (7850618f7dc0982ab7157a36140897eb)
+2026-10-04 15:42:52 INFO  ProductTest:83 - ===== Start Cart Icon Number Test =====
+2026-10-04 15:42:52 INFO  ProductTest:84 - Testing with username: standard_user
+2026-10-04 15:42:52 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:42:52 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:42:52 INFO  ProductTest:89 - Logging in
+2026-10-04 15:42:52 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:42:52 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:42:52 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:42:52 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:42:52 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:42:52 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:42:52 INFO  ProductTest:95 - Checking cart icon number behavior
+2026-10-04 15:42:52 INFO  ProductPage:308 - Starting cart icon validation
+2026-10-04 15:42:52 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:42:52 DEBUG ProductPage:312 - Clicking first product
+2026-10-04 15:42:52 DEBUG ProductPage:315 - Clicking second product
+2026-10-04 15:42:52 INFO  ProductPage:327 - Cart aria-label: Cart, 2 items
+2026-10-04 15:42:52 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:42:52 DEBUG ProductPage:331 - Clicking product button at index: 0
+2026-10-04 15:42:53 INFO  ProductPage:327 - Cart aria-label: Cart, 1 items
+2026-10-04 15:42:53 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:42:53 DEBUG ProductPage:331 - Clicking product button at index: 1
+2026-10-04 15:42:53 INFO  ProductPage:342 - Cart empty validation result: true
+2026-10-04 15:42:53 INFO  ProductTest:99 - Cart icon validation result: true
+2026-10-04 15:42:53 INFO  ProductTest:108 - Cart Icon Number Test passed
+2026-10-04 15:42:53 INFO  ProductTest:109 - ===== End Cart Icon Number Test =====
+2026-10-04 15:42:53 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/inventory.html
+2026-10-04 15:42:53 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:42:53 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:42:53 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:42:53 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:53 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:42:53 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:42:55 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:42:55 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:42:55 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (a9c7bcbff15c0897e0f817724c6b4883)
+2026-10-04 15:42:55 INFO  ProductTest:122 - ===== Start Remove Button Test =====
+2026-10-04 15:42:55 INFO  ProductTest:123 - Testing with username: standard_user
+2026-10-04 15:42:55 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:42:55 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:42:55 INFO  ProductTest:128 - Logging in
+2026-10-04 15:42:55 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:42:56 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:42:56 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:42:56 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:42:56 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:42:56 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:42:56 INFO  ProductTest:134 - Reading products from JSON file
+2026-10-04 15:42:56 DEBUG JSONFileManager:31 - Getting value for key: product1
+2026-10-04 15:42:56 DEBUG JSONFileManager:31 - Getting value for key: product2
+2026-10-04 15:42:56 DEBUG JSONFileManager:31 - Getting value for key: product3
+2026-10-04 15:42:56 DEBUG JSONFileManager:31 - Getting value for key: product4
+2026-10-04 15:42:56 INFO  ProductTest:152 - Searching for selected products
+2026-10-04 15:42:56 DEBUG ProductTest:156 - Searching for product containing: backpack
+2026-10-04 15:42:56 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:42:56 INFO  ProductTest:171 - Adding product to cart: Sauce Labs Backpack
+2026-10-04 15:42:56 DEBUG ProductTest:186 - Product link ID added: item_4_img_link
+2026-10-04 15:42:56 DEBUG ProductTest:156 - Searching for product containing: bike
+2026-10-04 15:42:56 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:42:56 INFO  ProductTest:171 - Adding product to cart: Sauce Labs Bike Light
+2026-10-04 15:42:56 DEBUG ProductTest:186 - Product link ID added: item_0_img_link
+2026-10-04 15:42:56 DEBUG ProductTest:156 - Searching for product containing: t-shirt
+2026-10-04 15:42:56 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:42:57 INFO  ProductTest:171 - Adding product to cart: Sauce Labs Bolt T-Shirt
+2026-10-04 15:42:57 DEBUG ProductTest:186 - Product link ID added: item_1_img_link
+2026-10-04 15:42:57 INFO  ProductTest:171 - Adding product to cart: Test.allTheThings() T-Shirt (Red)
+2026-10-04 15:42:57 DEBUG ProductTest:186 - Product link ID added: item_3_img_link
+2026-10-04 15:42:57 DEBUG ProductTest:156 - Searching for product containing: jacket
+2026-10-04 15:42:57 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:42:57 INFO  ProductTest:171 - Adding product to cart: Sauce Labs Fleece Jacket
+2026-10-04 15:42:57 DEBUG ProductTest:186 - Product link ID added: item_5_img_link
+2026-10-04 15:42:57 INFO  ProductTest:194 - Total selected product links: 5
+2026-10-04 15:42:57 INFO  ProductTest:201 - Opening product details using link ID: item_4_img_link
+2026-10-04 15:42:58 INFO  ProductTest:213 - Checking Remove button visibility for product: item_4_img_link
+2026-10-04 15:42:59 INFO  ProductTest:201 - Opening product details using link ID: item_0_img_link
+2026-10-04 15:43:00 INFO  ProductTest:213 - Checking Remove button visibility for product: item_0_img_link
+2026-10-04 15:43:01 INFO  ProductTest:201 - Opening product details using link ID: item_1_img_link
+2026-10-04 15:43:03 INFO  ProductTest:213 - Checking Remove button visibility for product: item_1_img_link
+2026-10-04 15:43:04 INFO  ProductTest:201 - Opening product details using link ID: item_3_img_link
+2026-10-04 15:43:05 INFO  ProductTest:213 - Checking Remove button visibility for product: item_3_img_link
+2026-10-04 15:43:06 INFO  ProductTest:201 - Opening product details using link ID: item_5_img_link
+2026-10-04 15:43:07 INFO  ProductTest:213 - Checking Remove button visibility for product: item_5_img_link
+2026-10-04 15:43:08 INFO  ProductTest:231 - Remove Button Test passed
+2026-10-04 15:43:08 INFO  ProductTest:232 - ===== End Remove Button Test =====
+2026-10-04 15:43:08 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/inventory.html
+2026-10-04 15:43:08 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:08 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:08 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:08 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:08 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:08 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:10 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:11 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:11 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (ec56f525ab124d8468269233eb329d17)
+2026-10-04 15:43:11 INFO  ProductTest:245 - ===== Start Filter Products Test =====
+2026-10-04 15:43:11 INFO  ProductTest:246 - Testing with username: standard_user
+2026-10-04 15:43:11 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:11 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:11 INFO  ProductTest:251 - Logging in
+2026-10-04 15:43:11 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:11 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:11 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:11 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:11 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:11 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:11 INFO  ProductTest:262 - Applying product filter with index: 0
+2026-10-04 15:43:11 DEBUG ProductPage:47 - Getting product filter dropdown
+2026-10-04 15:43:11 INFO  ProductPage:288 - Checking filter with index: 0
+2026-10-04 15:43:11 INFO  ProductPage:260 - Checking A to Z filter
+2026-10-04 15:43:11 DEBUG ProductPage:164 - Checking product sorting using decision: <
+2026-10-04 15:43:11 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:43:12 INFO  ProductPage:189 - Checking products sorted from A to Z
+2026-10-04 15:43:12 INFO  ProductPage:200 - A to Z sorting validation passed
+2026-10-04 15:43:12 INFO  ProductTest:276 - Filter 0 validation result: true
+2026-10-04 15:43:14 INFO  ProductTest:262 - Applying product filter with index: 1
+2026-10-04 15:43:14 DEBUG ProductPage:47 - Getting product filter dropdown
+2026-10-04 15:43:14 INFO  ProductPage:288 - Checking filter with index: 1
+2026-10-04 15:43:14 INFO  ProductPage:267 - Checking Z to A filter
+2026-10-04 15:43:14 DEBUG ProductPage:164 - Checking product sorting using decision: >
+2026-10-04 15:43:14 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:43:14 INFO  ProductPage:205 - Checking products sorted from Z to A
+2026-10-04 15:43:14 INFO  ProductPage:216 - Z to A sorting validation passed
+2026-10-04 15:43:14 INFO  ProductTest:276 - Filter 1 validation result: true
+2026-10-04 15:43:16 INFO  ProductTest:262 - Applying product filter with index: 2
+2026-10-04 15:43:16 DEBUG ProductPage:47 - Getting product filter dropdown
+2026-10-04 15:43:16 INFO  ProductPage:288 - Checking filter with index: 2
+2026-10-04 15:43:16 INFO  ProductPage:274 - Checking Low to High price filter
+2026-10-04 15:43:16 DEBUG ProductPage:164 - Checking product sorting using decision: n<
+2026-10-04 15:43:16 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:43:17 INFO  ProductPage:221 - Checking products sorted by price Low to High
+2026-10-04 15:43:17 INFO  ProductPage:232 - Low to High price sorting validation passed
+2026-10-04 15:43:17 INFO  ProductTest:276 - Filter 2 validation result: true
+2026-10-04 15:43:19 INFO  ProductTest:262 - Applying product filter with index: 3
+2026-10-04 15:43:19 DEBUG ProductPage:47 - Getting product filter dropdown
+2026-10-04 15:43:19 INFO  ProductPage:288 - Checking filter with index: 3
+2026-10-04 15:43:19 INFO  ProductPage:281 - Checking High to Low price filter
+2026-10-04 15:43:19 DEBUG ProductPage:164 - Checking product sorting using decision: n>
+2026-10-04 15:43:19 DEBUG ProductPage:62 - Getting all products
+2026-10-04 15:43:19 INFO  ProductPage:237 - Checking products sorted by price High to Low
+2026-10-04 15:43:19 INFO  ProductPage:248 - High to Low price sorting validation passed
+2026-10-04 15:43:19 INFO  ProductTest:276 - Filter 3 validation result: true
+2026-10-04 15:43:21 INFO  ProductTest:290 - All product filters have been checked
+2026-10-04 15:43:21 INFO  ProductTest:294 - Filter Products Test passed
+2026-10-04 15:43:21 INFO  ProductTest:295 - ===== End Filter Products Test =====
+2026-10-04 15:43:21 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/inventory.html
+2026-10-04 15:43:21 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:21 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:21 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:21 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:21 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:21 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:23 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:24 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:24 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (5ae97ad6442440b9192177dde415c12a)
+2026-10-04 15:43:24 INFO  CheckoutTest:113 - ===== Start Check Total Price Test =====
+2026-10-04 15:43:24 INFO  CheckoutTest:114 - Testing username: standard_user
+2026-10-04 15:43:24 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:24 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:24 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:24 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:24 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:24 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:24 INFO  CheckoutTest:135 - Logging in
+2026-10-04 15:43:24 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:24 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:24 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:24 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:24 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:24 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:24 INFO  CheckoutTest:141 - Calculating actual total price
+2026-10-04 15:43:24 INFO  ProductPage:112 - Calculating total price of selected products
+2026-10-04 15:43:24 DEBUG ProductPage:125 - Searching for product: backpack
+2026-10-04 15:43:24 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:24 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-backpack | Price: $29.99
+2026-10-04 15:43:25 DEBUG ProductPage:125 - Searching for product: bike
+2026-10-04 15:43:25 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:25 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-bike-light | Price: $9.99
+2026-10-04 15:43:25 DEBUG ProductPage:125 - Searching for product: t-shirt
+2026-10-04 15:43:25 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:25 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-bolt-t-shirt | Price: $15.99
+2026-10-04 15:43:25 INFO  ProductPage:139 - Product: add-to-cart-test.allthethings()-t-shirt-(red) | Price: $15.99
+2026-10-04 15:43:25 DEBUG ProductPage:125 - Searching for product: jacket
+2026-10-04 15:43:25 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:25 INFO  ProductPage:139 - Product: add-to-cart-sauce-labs-fleece-jacket | Price: $49.99
+2026-10-04 15:43:25 INFO  ProductPage:150 - Total calculated price: 121.94999999999999
+2026-10-04 15:43:25 INFO  CheckoutTest:146 - Actual total price: 121.94999999999999
+2026-10-04 15:43:25 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:43:25 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:43:25 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:43:25 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:43:25 INFO  CheckoutTest:155 - Entering checkout information
+2026-10-04 15:43:25 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:43:25 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:43:25 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:43:26 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:43:26 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:43:26 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:43:26 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:43:26 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:43:26 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:43:26 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:43:26 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:43:26 DEBUG OverviewPage:35 - getSubTotal
+2026-10-04 15:43:26 INFO  CheckoutTest:176 - Expected subtotal: 121.94999999999999
+2026-10-04 15:43:26 DEBUG OverviewPage:39 - getTax
+2026-10-04 15:43:27 DEBUG OverviewPage:43 - getTotal
+2026-10-04 15:43:27 DEBUG OverviewPage:39 - getTax
+2026-10-04 15:43:27 DEBUG OverviewPage:43 - getTotal
+2026-10-04 15:43:27 INFO  CheckoutTest:199 - Total price validation passed
+2026-10-04 15:43:27 INFO  CheckoutTest:203 - ===== End Check Total Price Test =====
+2026-10-04 15:43:27 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:43:27 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:27 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:27 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:27 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:27 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:27 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:29 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:29 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:29 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (d4e7564b766ecf08662c95963557c7b7)
+2026-10-04 15:43:29 INFO  CheckoutTest:32 - ===== Start Checkout Test =====
+2026-10-04 15:43:29 INFO  CheckoutTest:33 - Testing username: standard_user
+2026-10-04 15:43:29 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:30 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:30 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:30 INFO  CheckoutTest:44 - Logging in
+2026-10-04 15:43:30 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:30 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:30 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:30 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:30 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:30 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:30 INFO  CheckoutTest:50 - Adding selected products
+2026-10-04 15:43:30 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:43:30 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:43:30 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:30 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:43:30 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:43:30 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:30 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:43:30 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:43:30 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:30 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:43:30 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:43:31 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:43:31 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:31 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:43:31 INFO  ProductPage:104 - Selected products added successfully. Total products: 10
+2026-10-04 15:43:31 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:43:31 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:43:31 INFO  CheckoutTest:78 - Products expected: 10 | Products found: 5
+2026-10-04 15:43:31 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:43:31 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:43:31 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:43:31 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:31 ERROR BaseTest:90 - Test failed: checkout
+2026-10-04 15:43:31 INFO  BaseTest:112 - Screenshot attached to Allure
+2026-10-04 15:43:31 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:32 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:32 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:32 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:32 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:32 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:32 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:34 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:34 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:34 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (9eff01247aa2940eb2f2c3f945121235)
+2026-10-04 15:43:34 INFO  InformationTest:31 - ===== Start Checkout Information Test =====
+2026-10-04 15:43:34 INFO  InformationTest:33 - Testing information: Mariam Yasser - 13612
+2026-10-04 15:43:34 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:34 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:34 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:34 INFO  InformationTest:49 - Logging in
+2026-10-04 15:43:34 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:43:34 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:34 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:34 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:43:34 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:35 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:35 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:35 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:35 INFO  InformationTest:61 - Adding selected products
+2026-10-04 15:43:35 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:43:35 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:43:35 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:35 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:43:35 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:43:35 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:35 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:43:35 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:43:35 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:35 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:43:35 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:43:35 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:43:35 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:35 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:43:36 INFO  ProductPage:104 - Selected products added successfully. Total products: 15
+2026-10-04 15:43:36 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:43:36 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:43:36 INFO  InformationTest:89 - Products expected: 15 | Products found: 11
+2026-10-04 15:43:36 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:43:36 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:43:36 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:43:36 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:36 ERROR BaseTest:90 - Test failed: checkoutInfo
+2026-10-04 15:43:37 INFO  BaseTest:112 - Screenshot attached to Allure
+2026-10-04 15:43:37 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:37 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:37 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:37 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:37 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:37 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:37 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:39 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:39 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:39 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (a53d4354b68e3255ce7423884b7936bc)
+2026-10-04 15:43:39 INFO  InformationTest:31 - ===== Start Checkout Information Test =====
+2026-10-04 15:43:39 INFO  InformationTest:33 - Testing information: Sama Ali - 13612
+2026-10-04 15:43:39 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:39 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:39 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:39 INFO  InformationTest:49 - Logging in
+2026-10-04 15:43:39 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:43:39 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:40 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:40 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:43:40 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:40 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:40 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:40 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:40 INFO  InformationTest:61 - Adding selected products
+2026-10-04 15:43:40 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:43:40 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:43:40 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:40 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:43:40 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:43:40 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:40 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:43:40 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:43:40 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:40 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:43:40 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:43:40 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:43:40 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:40 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:43:41 INFO  ProductPage:104 - Selected products added successfully. Total products: 20
+2026-10-04 15:43:41 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:43:41 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:43:42 INFO  InformationTest:89 - Products expected: 20 | Products found: 20
+2026-10-04 15:43:42 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:43:42 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:43:42 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:43:42 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:42 INFO  InformationTest:110 - Entering checkout information
+2026-10-04 15:43:42 INFO  BasePage:23 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:42 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:43:42 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:43:43 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:43:43 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:43:43 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:43:43 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:43:43 INFO  InformationTest:119 - Clicking Continue
+2026-10-04 15:43:43 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:43:43 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:43:43 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:43:43 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:43:43 INFO  InformationTest:129 - Checkout information test passed
+2026-10-04 15:43:43 INFO  InformationTest:130 - ===== End Checkout Information Test =====
+2026-10-04 15:43:43 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:43:43 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:43 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:43 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:43 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:43 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:43 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:45 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:46 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:46 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (54f6ce5ce28be36d4cfcd1ccbc29f0e8)
+2026-10-04 15:43:46 INFO  InformationTest:31 - ===== Start Checkout Information Test =====
+2026-10-04 15:43:46 INFO  InformationTest:33 - Testing information: ALI Ahmed - 13612
+2026-10-04 15:43:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:46 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:46 INFO  InformationTest:49 - Logging in
+2026-10-04 15:43:46 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:43:46 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:46 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:46 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:43:46 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:46 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:46 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:46 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:46 INFO  InformationTest:61 - Adding selected products
+2026-10-04 15:43:46 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:43:46 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:43:46 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:47 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:43:47 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:43:47 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:47 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:43:47 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:43:47 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:47 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:43:47 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:43:47 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:43:47 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:47 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:43:47 INFO  ProductPage:104 - Selected products added successfully. Total products: 25
+2026-10-04 15:43:47 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:43:47 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:43:49 INFO  InformationTest:89 - Products expected: 25 | Products found: 25
+2026-10-04 15:43:49 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:43:49 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:43:49 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:43:49 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:49 INFO  InformationTest:110 - Entering checkout information
+2026-10-04 15:43:49 INFO  BasePage:23 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:49 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:43:49 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:43:50 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:43:50 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:43:50 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:43:50 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:43:50 INFO  InformationTest:119 - Clicking Continue
+2026-10-04 15:43:50 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:43:50 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:43:50 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:43:50 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:43:50 INFO  InformationTest:129 - Checkout information test passed
+2026-10-04 15:43:50 INFO  InformationTest:130 - ===== End Checkout Information Test =====
+2026-10-04 15:43:50 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:43:50 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:50 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:50 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:50 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:50 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:50 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:52 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:53 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:53 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (64f98ed24f4e37adddb5ae847931f30f)
+2026-10-04 15:43:53 INFO  OverviewTest:24 - Start Overview Test
+2026-10-04 15:43:53 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:53 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:53 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:53 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:53 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:53 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:43:53 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:53 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:53 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:43:53 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:53 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:53 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:53 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:53 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:43:53 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:43:53 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:53 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:43:53 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:43:53 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:53 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:43:53 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:43:53 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:53 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:43:53 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:43:54 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:43:54 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:54 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:43:54 INFO  ProductPage:104 - Selected products added successfully. Total products: 30
+2026-10-04 15:43:54 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:43:54 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:43:55 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:43:55 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:43:55 INFO  OverviewTest:52 - End Overview Test
+2026-10-04 15:43:55 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:43:55 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:43:55 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:43:55 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:43:55 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:43:55 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:43:55 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:43:55 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:43:55 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:43:55 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:43:56 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:43:56 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:43:56 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:43:56 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:43:56 INFO  OverviewPage:48 - clickFinish
+2026-10-04 15:43:56 DEBUG OverviewPage:30 - getFinishButton
+2026-10-04 15:43:56 DEBUG ConfigHandler:28 - Getting value for key: completeUrl
+2026-10-04 15:43:56 INFO  BasePage:51 - https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:43:56 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:43:56 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 15:43:56 DEBUG ConfigHandler:19 - Properties file loaded
+2026-10-04 15:43:56 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/product.json
+2026-10-04 15:43:56 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:56 INFO  JSONFileManager:19 - Loading JSON file: src/main/resources/login.json
+2026-10-04 15:43:56 INFO  JSONFileManager:22 - JSON file loaded
+2026-10-04 15:43:58 DEBUG ConfigHandler:28 - Getting value for key: url
+2026-10-04 15:43:59 DEBUG BaseTest:69 - Current URL is: https://www.saucedemo.com/
+2026-10-04 15:43:59 DEBUG BaseTest:74 - Current driver is: ChromeDriver: chrome on windows (7448cc48ad0243cef2cf45b4d5fcffd0)
+2026-10-04 15:43:59 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:59 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:59 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:59 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:59 INFO  BasePage:23 - https://www.saucedemo.com/
+2026-10-04 15:43:59 DEBUG GenerateReportTest:29 - Checking out the information
+2026-10-04 15:43:59 DEBUG ConfigHandler:28 - Getting value for key: username
+2026-10-04 15:43:59 INFO  LoginPage:22 - Geeting username Field
+2026-10-04 15:43:59 DEBUG LoginPage:36 - Entering username: standard_user
+2026-10-04 15:43:59 DEBUG ConfigHandler:28 - Getting value for key: password
+2026-10-04 15:43:59 INFO  LoginPage:26 - Geeting password Field
+2026-10-04 15:43:59 DEBUG LoginPage:41 - Entering password: secret_sauce
+2026-10-04 15:43:59 INFO  LoginPage:30 -  Geeting login Button
+2026-10-04 15:43:59 INFO  LoginPage:46 - Clicking on login button
+2026-10-04 15:43:59 INFO  ProductPage:68 - Starting to add selected products to cart
+2026-10-04 15:43:59 DEBUG ProductPage:79 - Searching for product containing: backpack
+2026-10-04 15:43:59 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:59 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-backpack with price: $29.99
+2026-10-04 15:43:59 DEBUG ProductPage:79 - Searching for product containing: bike
+2026-10-04 15:43:59 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:59 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bike-light with price: $9.99
+2026-10-04 15:43:59 DEBUG ProductPage:79 - Searching for product containing: t-shirt
+2026-10-04 15:43:59 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:43:59 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-bolt-t-shirt with price: $15.99
+2026-10-04 15:43:59 INFO  ProductPage:95 - Adding product: add-to-cart-test.allthethings()-t-shirt-(red) with price: $15.99
+2026-10-04 15:44:00 DEBUG ProductPage:79 - Searching for product containing: jacket
+2026-10-04 15:44:00 DEBUG ProductPage:57 - Getting all Add to Cart buttons
+2026-10-04 15:44:00 INFO  ProductPage:95 - Adding product: add-to-cart-sauce-labs-fleece-jacket with price: $49.99
+2026-10-04 15:44:00 INFO  ProductPage:104 - Selected products added successfully. Total products: 35
+2026-10-04 15:44:00 INFO  ProductPage:157 - Clicking shopping cart button
+2026-10-04 15:44:00 DEBUG ProductPage:42 - Getting shopping cart button
+2026-10-04 15:44:01 INFO  CartPage:32 - clickCheckout
+2026-10-04 15:44:01 DEBUG CartPage:27 - getCheckoutButton
+2026-10-04 15:44:01 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepOne
+2026-10-04 15:44:01 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-one.html
+2026-10-04 15:44:01 DEBUG ConfigHandler:28 - Getting value for key: firstname
+2026-10-04 15:44:01 DEBUG InformationPage:41 - enterFirstname
+2026-10-04 15:44:01 DEBUG InformationPage:25 - getFirstname
+2026-10-04 15:44:02 DEBUG ConfigHandler:28 - Getting value for key: lastname
+2026-10-04 15:44:02 DEBUG InformationPage:45 - enterLastname
+2026-10-04 15:44:02 DEBUG InformationPage:29 - getLastname
+2026-10-04 15:44:02 DEBUG ConfigHandler:28 - Getting value for key: postalCode
+2026-10-04 15:44:02 DEBUG InformationPage:49 - enterPostalCode
+2026-10-04 15:44:02 DEBUG InformationPage:33 - getPostalCode
+2026-10-04 15:44:02 INFO  InformationPage:53 - clickContinue
+2026-10-04 15:44:02 DEBUG InformationPage:37 - getContinueButton
+2026-10-04 15:44:02 DEBUG ConfigHandler:28 - Getting value for key: checkoutUrlStepTwo
+2026-10-04 15:44:02 INFO  BasePage:51 - https://www.saucedemo.com/checkout-step-two.html
+2026-10-04 15:44:02 INFO  OverviewPage:48 - clickFinish
+2026-10-04 15:44:02 DEBUG OverviewPage:30 - getFinishButton
+2026-10-04 15:44:02 DEBUG ConfigHandler:28 - Getting value for key: completeUrl
+2026-10-04 15:44:02 INFO  BasePage:51 - https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:44:02 INFO  BasePage:23 - https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:44:02 INFO  GenerateReport:28 - clickGenerateButton
+2026-10-04 15:44:02 DEBUG GenerateReport:23 - getGenerateButton
+2026-10-04 15:44:02 DEBUG BaseTest:125 - Current URL before closing: https://www.saucedemo.com/checkout-complete.html
+2026-10-04 15:44:03 DEBUG BaseTest:134 - Browser closed successfully
+2026-10-04 19:49:13 INFO  CSVTest:20 - Starting CSV frequency test
+2026-10-04 19:49:13 INFO  CSVTest:27 - CSV file processed successfully
+2026-10-04 19:49:13 INFO  CSVTest:31 - Column: Name | Most frequent words: [Mariam, Ali]
+2026-10-04 19:49:14 INFO  CSVTest:31 - Column: Color | Most frequent words: [Red, Blue]
+2026-10-04 19:49:14 INFO  CSVTest:31 - Column: City | Most frequent words: [Cairo]
+2026-10-04 19:49:14 INFO  CSVTest:47 - CSV frequency test completed successfully
