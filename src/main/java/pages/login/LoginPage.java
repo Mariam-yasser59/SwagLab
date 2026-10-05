@@ -45,4 +45,11 @@ public class LoginPage extends BasePage{
         getLoginBtn().click();
         logger.info("Clicking on login button");
     }
+
+
+
+
+
+
+
 }
